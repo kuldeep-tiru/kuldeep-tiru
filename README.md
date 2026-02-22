@@ -2,7 +2,7 @@
 
 🔄 Career Transition | QA Automation Engineer & SDET  
 🏢 7+ Years at Amazon Development Center, Noida  
-📍 Ghaziabad, India | Open to Remote
+📍 Ghaziabad, India | Open to Remote and across India
 
 ---
 
