@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Kuldeep Tiru 👋
 
-<!--
-**kuldeep-tiru/kuldeep-tiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔄 Career Transition | QA Automation Engineer & SDET  
+🏢 7+ Years at Amazon Development Center, Noida  
+📍 Ghaziabad, India | Open to Remote
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Automation:** Selenium WebDriver, C#, NUnit, Page Object Model (POM)
+- **Testing:** Manual Testing, API Testing (Postman), Regression, UAT, Black-Box Testing
+- **Tools:** JIRA, Zephyr Scale, GitHub, Visual Studio 2022
+- **Methodologies:** Agile (Scrum/Kanban), SDLC, Root Cause Analysis
+
+---
+
+### 📂 Projects
+🔗 [SauceDemoAutomation](https://github.com/kuldeep-tiru/SauceDemoAutomation) — C# Selenium WebDriver framework with Page Object Model, NUnit, and 27 automated test cases
+
+---
+
+### 📜 Certifications
+- The Complete Quality Assurance Course — Victor Gorinov
+- The Complete 2025 Software Testing Bootcamp — Tarek Roshdy
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kuldeep--tiru-blue)](https://linkedin.com/in/kuldeep-tiru)
+📧 kuldeeptiru@outlook.com
