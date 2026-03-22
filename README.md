@@ -15,7 +15,9 @@
 ---
 
 ### 📂 Projects
-🔗 [SauceDemoAutomation](https://github.com/kuldeep-tiru/SauceDemoAutomation) — C# Selenium WebDriver framework with Page Object Model, NUnit, and 27 automated test cases
+🔗 [SauceDemoAutomation](https://github.com/kuldeep-tiru/SauceDemoAutomation) — C# Selenium WebDriver framework with Page Object Model, NUnit, and 27 automated test cases.
+
+🔗 [DemoQA Manual Testing](https://github.com/kuldeep-tiru/Project1_DemoQA_ManualTesting) — Manual testing project for DemoQA web application. Covers Text Box, Practice Form, and Web Tables modules.
 
 ---
 
