@@ -1,15 +1,16 @@
 ### Hi, I'm Kuldeep Tiru 👋
 
-🔄 Career Transition | QA Automation Engineer & SDET  
-🏢 7+ Years at Amazon Development Center, Noida  
-📍 Ghaziabad, India | Open to Remote and across India
+🔄 QA Professional | Associate QA at Dataviv Technologies Pvt. Ltd.  
+🏢 Currently @ Dataviv Technologies | Ex-Amazon (7+ Years)  
+📍 Delhi NCR, India | Open to Remote and across India
 
 ---
 
 ### 🛠️ Tech Stack
 - **Automation:** Selenium WebDriver, C#, NUnit, Page Object Model (POM)
 - **Testing:** Manual Testing, API Testing (Postman), Regression, UAT, Black-Box Testing
-- **Tools:** JIRA, Zephyr Scale, GitHub, Visual Studio 2022
+- **Tools:** JIRA, Zephyr Scale, GitHub, Visual Studio 2022, VS Code
+- **AI Tools:** Claude, ChatGPT, Kimi, Gemini
 - **Methodologies:** Agile (Scrum/Kanban), SDLC, Root Cause Analysis
 
 ---
@@ -23,7 +24,8 @@
 
 ### 📜 Certifications
 - The Complete Quality Assurance Course — Victor Gorinov
-- The Complete 2025 Software Testing Bootcamp — Tarek Roshdy
+- The Complete 2025 Software Testing Bootcamp — Tarek Roshdy (In Progress)
+- Generative AI Foundations — Microsoft x UpGrad (In Progress)
 
 ---
 
