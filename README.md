@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Automation:** Selenium WebDriver, C#, NUnit, Page Object Model (POM)
+- **Automation:** Selenium WebDriver, C#, NUnit, Page Object Model (POM), Playwright, Javascript
 - **Testing:** Manual Testing, API Testing (Postman), Regression, UAT, Black-Box Testing
 - **Tools:** JIRA, Zephyr Scale, GitHub, Visual Studio 2022, VS Code
 - **AI Tools:** Claude, ChatGPT, Kimi, Gemini
