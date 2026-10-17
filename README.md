@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Automation:** Selenium WebDriver, C#, NUnit, Page Object Model (POM), Playwright, Javascript
+- **Automation:** Playwright, Javascript, Selenium WebDriver, C#, NUnit, Page Object Model (POM)
 - **Testing:** Manual Testing, API Testing (Postman), Regression, UAT, Black-Box Testing
 - **Tools:** JIRA, Zephyr Scale, GitHub, Visual Studio 2022, VS Code
 - **AI Tools:** Claude, ChatGPT, Kimi, Gemini
@@ -16,6 +16,8 @@
 ---
 
 ### 📂 Projects
+🔗 [Bhumae Wellness QA](https://github.com/kuldeep-tiru/bhumae-wellness-qa-case-study) — Manual QA case study: 113 test cases and 14 defects for a live D2C e-commerce site.
+
 🔗 [SauceDemoAutomation](https://github.com/kuldeep-tiru/SauceDemoAutomation) — C# Selenium WebDriver framework with Page Object Model, NUnit, and 27 automated test cases.
 
 🔗 [DemoQA Manual Testing](https://github.com/kuldeep-tiru/Project1_DemoQA_ManualTesting) — Manual testing project for DemoQA web application. Covers Text Box, Practice Form, and Web Tables modules.
