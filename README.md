@@ -2,7 +2,7 @@
 
 🔄 QA Professional | Associate QA at Dataviv Technologies Pvt. Ltd.  
 🏢 Currently @ Dataviv Technologies | Ex-Amazon (7+ Years)  
-📍 Delhi NCR, India | Open to Remote and across India
+📍 Delhi NCR, India | Open to across India and Remote
 
 ---
 
